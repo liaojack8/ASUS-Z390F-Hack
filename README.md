@@ -2,7 +2,7 @@
 
 Thanks for [Hackintosh / Vanilla](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) & [OpenCore Vanilla Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/) & [z390-Hack](https://github.com/leto1210/z390-Hack)
 
-![About Mac](./Images/About_Eng.png)
+![About Mac](./Images/AboutMac_Eng.png)
 ![Hard Acceleration](./Images/VideoProc_Eng.png)
 
 ### Step by Step Instructions 
