@@ -1,7 +1,7 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-8700 | RX 580 8GB
 [English](https://github.com/liaojack8/ASUS-Z390F-Hack) | 中文
 
-Thanks for [Hackintosh / Vanilla](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) & [OpenCore Vanilla Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/) & [z390-Hack](https://github.com/leto1210/z390-Hack)
+感謝 [Hackintosh / Vanilla](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) & [OpenCore Vanilla Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/) & [z390-Hack](https://github.com/leto1210/z390-Hack)
 
 ![About Mac](./Images/AboutMac_Cht.png)
 ![Hard Acceleration](./Images/VideoProc_Cht.png)
