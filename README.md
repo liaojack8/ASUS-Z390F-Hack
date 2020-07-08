@@ -1,13 +1,12 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-8700 | RX 580 8GB
 English | [中文](./README_cht.md)
 
-Thanks for [Hackintosh / Vanilla](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) & [OpenCore Vanilla Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/) & [z390-Hack](https://github.com/leto1210/z390-Hack)
+Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/haswell.html) & [z390-Hack](https://github.com/leto1210/z390-Hack)
 
 ![About Mac](./Images/AboutMac_Eng.png)
+
 ![Hard Acceleration](./Images/VideoProc_Eng.png)
 
-### Step by Step Instructions 
-[See here](./Instructions/Instructions_Eng.md)
 ---
 ### Parts List
 Type|Item
@@ -55,3 +54,7 @@ Type|Item
 * [MacIASL](http://sourceforge.net/projects/maciasl)
 * [VideoProc](https://www.videoproc.com/) - Check Hardware Acceleration
 ---
+### Install
+1. Check the configuration in BIOS, My Config(./BIOS/v{Version_ID}_setting.txt), 
+   you can also import the configuration file (./BIOS/v{Version_ID}_config.CMO).
+2. Build your install usb drive, and replace the EFI my release.

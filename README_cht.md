@@ -1,13 +1,11 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-8700 | RX 580 8GB
 [English](https://github.com/liaojack8/ASUS-Z390F-Hack) | 中文
 
-感謝 [Hackintosh / Vanilla](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) & [OpenCore Vanilla Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/) & [z390-Hack](https://github.com/leto1210/z390-Hack)
+感謝 [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/haswell.html) & [z390-Hack](https://github.com/leto1210/z390-Hack)
 
 ![About Mac](./Images/AboutMac_Cht.png)
 ![Hard Acceleration](./Images/VideoProc_Cht.png)
 
-### 分步說明
-[閱讀這裡](./Instructions/Instructions_Cht.md)
 ---
 ### 零件清單
 ---
@@ -58,3 +56,7 @@
 * [Intel Power Gadget](https://software.intel.com/en-us/articles/intel-power-gadget)
 * [MacIASL](http://sourceforge.net/projects/maciasl)
 * [VideoProc](https://www.videoproc.com/) - 用於確認硬體加速
+---
+### 安裝
+1. 確認BIOS版本與設定組態, 我的設定組態(./BIOS/v{版本號}_setting.txt), 也可以直接導入我的設定值透過我匯出的文件(./BIOS/v{版本號}_config.CMO)
+2. 建置USB系統安裝碟, 並替換EFI分區為我發佈的文件.
