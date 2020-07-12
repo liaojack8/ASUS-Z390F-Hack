@@ -1,7 +1,7 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-8700 | RX 580 8GB
 English | [中文](./README_cht.md)
 
-Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/haswell.html) & [z390-Hack](https://github.com/leto1210/z390-Hack)
+Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html) & [z390-Hack](https://github.com/leto1210/z390-Hack)
 
 ![About Mac](./Images/AboutMac_Eng.png)
 
