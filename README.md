@@ -26,6 +26,7 @@ Type|Item
 ---
 #### Working
 * Mojave 10.14.6 install and boots successfully
+* Catalina 10.15.6 install and boots successfully
 * APFS
 * Headless iGPU UHD 630
 * Wired Ethernet - Intel I219-V PCI Express Gigabit Ethernet

@@ -27,6 +27,7 @@
 ### 完美運行
 ---
 * Mojave 10.14.6 安裝與引導成功
+* Catalina 10.15.6 安裝與引導成功
 * APFS
 * iGPU(UHD 630) + AMD(RX580)實現硬體加速(硬解)
 * 有線網路 - Intel I219-V PCI Express Gigabit Ethernet
