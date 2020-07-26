@@ -37,7 +37,7 @@
 * 睡眠/喚醒
 * 圖片預覽
 * 高效小睡
-* Youtube 影音播放
+* Youtube/Netflix在Safari上工作播放
 * Airdrop
 * AirPlay
 * 接力 & 接續互通
