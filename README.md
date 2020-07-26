@@ -36,7 +36,7 @@ Type|Item
 * Sleep/Wake
 * Quicklook
 * Power Nap
-* Youtube video
+* Youtube/Netflix video on Safari
 * Airdrop
 * AirPlay
 * Handoff & Continuity
