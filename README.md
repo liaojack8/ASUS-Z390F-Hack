@@ -3,9 +3,11 @@ English | [中文](./README_cht.md)
 
 Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html) & [z390-Hack](https://github.com/leto1210/z390-Hack)
 
-![About Mac](./Images/AboutMac_Eng.png)
+![About Mac](./Images/AboutMac_10.15.6.png)
 
-![Hard Acceleration](./Images/VideoProc_Eng.png)
+![Hard Acceleration](./Images/VideoProc_10.15.6.png)
+
+![Sensei](./Images/Sensei_10.15.6.png)
 
 ---
 ### Parts List
