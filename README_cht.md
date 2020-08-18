@@ -1,6 +1,8 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-8700 | RX 580 8GB
 [English](https://github.com/liaojack8/ASUS-Z390F-Hack) | 中文
 
+[更新記錄](./changelog.md)
+
 感謝 [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html) & [z390-Hack](https://github.com/leto1210/z390-Hack)
 
 ![About Mac](./Images/AboutMac_10.15.6.png)

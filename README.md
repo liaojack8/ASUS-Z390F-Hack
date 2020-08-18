@@ -1,6 +1,8 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-8700 | RX 580 8GB
 English | [中文](./README_cht.md)
 
+[Changelog](./changelog.md)
+
 Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html) & [z390-Hack](https://github.com/leto1210/z390-Hack)
 
 ![About Mac](./Images/AboutMac_10.15.6.png)
@@ -19,6 +21,7 @@ Type|Item
 **Memory** | Kingston HyperX Predator RGB (Black) DDR4-3200 Memory 32 GB (8G*4)
 **Storage SATA III (for MacOS)** | Samsung 860 EVO 500 GB SATA 2.5 Inch Internal Solid State Drive (SSD) (MZ-76E500)
 **Storage NVMe (for Win10)** | Intel 760p 256 GB M.2-2280 NVME Solid State Drive
+**Storage NVMe (for Ubuntu Linux 18.04 LTS)** | PLEXTOR M8PeGN 128 GB M.2-2280 NVME Solid State Drive
 **Storage SATA III** | Toshiba DT01ACA100-1TB SATAIII 32MB + Toshiba DT01ACA200-2TB SATAIII 32MB
 **Graphic Card** | MSI - Radeon RX 580 ARMOR 8G OC '8GB GDDR5, 1366Hz'
 **Case** | In-Win 303C Black PC Case
