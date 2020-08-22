@@ -16,7 +16,7 @@
 ---
 規格|型號
 :----|:----
-**CPU** | 英特爾 Intel - Core i7-8700 3.2 GHz 6核心 Processor
+**CPU** | 英特爾 Intel - Core i7-9700k 3.6 GHz 8核心 Processor
 **散熱系統** | 酷碼 Coolermaster MASTERLIQUID ML240L RGB
 **主機板(MB)** | 華碩 ROG STRIX Z390-F GAMING ATX LGA1151
 **記憶體(DRAM)** | 金士頓 Kingston HyperX Predator RGB (黑) DDR4-3200 32 GB (8G*4)

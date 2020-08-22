@@ -15,7 +15,7 @@ Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-
 ### Parts List
 Type|Item
 :----|:----
-**CPU** | Intel - Core i7-8700 3.2 GHz 6-Core Processor
+**CPU** | Intel - Core i7-9700k 3.6 GHz 8-Core Processor
 **CPU Cooler** | Coolermaster MASTERLIQUID ML240L RGB
 **Motherboard** | Asus - ROG STRIX Z390-F GAMING ATX LGA1151 Motherboard
 **Memory** | Kingston HyperX Predator RGB (Black) DDR4-3200 Memory 32 GB (8G*4)
