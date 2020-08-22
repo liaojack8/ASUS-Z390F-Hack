@@ -30,7 +30,7 @@ Type|Item
 **Extra** | Antenna extension base from ASUS PCE-AC68
 ---
 #### Working
-* Mojave 10.14.6 install and boots successfully
+* Mojave 10.14.6 (19G2021) install and boots successfully
 * Catalina 10.15.6 install and boots successfully
 * APFS
 * Headless iGPU UHD 630
