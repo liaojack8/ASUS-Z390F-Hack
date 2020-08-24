@@ -1,4 +1,8 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-8700 | RX 580 8GB
+[![macOS](https://img.shields.io/badge/macOS-10.15.6-orange)](https://www.apple.com/macos/catalina/)
+[![Clover](https://img.shields.io/badge/Opencore-0.6.0-yellow)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![BIOS](https://img.shields.io/badge/BIOS-v1502-brightgreen)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 [English](https://github.com/liaojack8/ASUS-Z390F-Hack) | 中文
 
 [更新記錄](./changelog.md)
