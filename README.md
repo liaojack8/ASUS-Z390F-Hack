@@ -30,7 +30,7 @@ Type|Item
 **Graphic Card** | MSI - Radeon RX 580 ARMOR 8G OC '8GB GDDR5, 1366Hz'
 **Case** | In-Win 303C Black PC Case
 **Power Supply** | Corsair RM650x (2018) 80+ Gold Certified Fully Modular ATX Power Supply
-**Extra** | Airport A1465 BCM94360CS2 WiFi and BT 4.0 Card to PCI-E Adapter with External Antenna
+**Extra** | Airport A1465 BCM943602CS WiFi and BT 4.0 Card to PCI-E Adapter with External Antenna
 **Extra** | Antenna extension base from ASUS PCE-AC68
 ---
 #### Working
