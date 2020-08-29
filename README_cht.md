@@ -7,9 +7,9 @@
 
 感謝 [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html) & [z390-Hack](https://github.com/leto1210/z390-Hack)
 
-###[更新記錄](./changelog.md)
+### [更新記錄](./changelog.md)
 
-###[USB連接埠定義說明文件 (SSDT)](./USB_Mapping.md)
+### [USB連接埠定義說明文件 (SSDT)](./USB_Mapping.md)
 
 ![About Mac](./Images/AboutMac_10.15.6.png)
 
