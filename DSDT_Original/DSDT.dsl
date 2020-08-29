@@ -5,7 +5,7 @@
  * 
  * Disassembling to symbolic ASL+ operators
  *
- * Disassembly of E:/¶ÂªG§éÄË¼È¦s/EFI_9/OC/ACPI/DSDT.aml, Sun May 17 00:23:23 2020
+ * Disassembly of E:/ACPI/DSDT.aml, Sun May 17 00:23:23 2020
  *
  * Original Table Header:
  *     Signature        "DSDT"
