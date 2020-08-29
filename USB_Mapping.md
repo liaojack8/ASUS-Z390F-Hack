@@ -42,10 +42,10 @@ Port Name|Device|Description, Physical Port (Bios naming)
 |||
 **HS11**@`Internal ` | Disable | USB11
 |||
-**HS12**@`Internal ` | BRCM20702 Hub (BCM943602CS bluetooth PCI adapter) | USB12
+**HS12**@`Internal ` | BRCM20702 Hub (BCM943602CS bluetooth PCI adapter) (always connect) | USB12
 || Logi G413 has two usb cable, main cable for keyboard, sub cable for led, and extension port|
-**HS13**@`Rear Panel` | G413 Carbon Mechanical Gaming Keyboard_Main (always) | -
+**HS13**@`Rear Panel` | G413 Carbon Mechanical Gaming Keyboard_Main (always connect) | USB13
 |||
-**HS14**@`Rear Panel` | G413 Carbon Mechanical Gaming Keyboard_Sub | -
+**HS14**@`Rear Panel` | G413 Carbon Mechanical Gaming Keyboard_Sub | USB14
 
 # *All of the above, there're 15 ports in total.*
