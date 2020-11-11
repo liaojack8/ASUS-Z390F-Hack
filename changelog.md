@@ -1,10 +1,22 @@
 # Changelog
 
+## 2020-11-11
+- Update OC bootloader to 0.6.3
+- Update MacOS to Catalina 10.15.7
+- EFI compatible w/ MacOS 10.15.6 (19G2021) and 10.15.7 (19H15) 
+- Update kexts below
+	- AppleALC, 1.5.2 to 1.5.4
+	- IntelMausi, 1.0.3 to 1.0.4
+	- Lilu, 1.4.7 to 1.4.9
+	- RTCMemoryFixup, 1.0.6 to 1.0.7
+	- VirtualSMC, 1.1.6 to 1.1.8
+	- WhateverGreen, 1.4.2 to 1.4.4
+
 ## 2020-08-29
 - add USB_Mapping.md to explain my port mapping.
 
 ## 2020-08-23
-- update to OC 0.6.0
+- update to OC bootloader to 0.6.0
 - compatible w/ MacOS 10.15.6 (19G2021)
 - optimize boot time
 - add new boot entry for ubuntu
