@@ -11,11 +11,11 @@
 
 ### [USB連接埠定義說明文件 (SSDT)](./USB_Mapping.md)
 
-![About Mac](./Images/AboutMac_10.15.6.png)
+![About Mac](./Images/AboutMac_10.15.7.png)
 
-![Hard Acceleration](./Images/VideoProc_10.15.6.png)
+![Hard Acceleration](./Images/VideoProc_10.15.7.png)
 
-![Sensei](./Images/Sensei_10.15.6.png)
+![Sensei](./Images/Sensei_10.15.7.png)
 
 ---
 ### 零件清單
@@ -28,6 +28,7 @@
 **記憶體(DRAM)** | 金士頓 Kingston HyperX Predator RGB (黑) DDR4-3200 32 GB (8G*4)
 **硬碟 SATA III (MacOS)** | 三星 Samsung 860 EVO 500 GB SATA 2.5吋 (MZ-76E500)
 **硬碟 NVMe (Win10)** | 英特爾 Intel 760p 256 GB M.2-2280 NVME Solid State Drive
+**硬碟 NVMe (存放遊戲)** | PLEXTOR M8PeGN 128 GB M.2-2280 NVME Solid State Drive
 **硬碟 SATA III** | 東芝 Toshiba DT01ACA100-1TB SATAIII 32MB + DT01ACA200-2TB SATAIII 32MB
 **顯示卡** | 微星 MSI - Radeon RX 580 ARMOR 8G OC '8GB GDDR5, 1366Hz'
 **機殼** | 迎廣 In-Win 303C 黑
@@ -37,8 +38,7 @@
 
 ### 完美運行
 ---
-* Mojave 10.14.6 (18G84) 安裝與引導成功
-* Catalina 10.15.6 (19G2021) 安裝與引導成功
+* Catalina 10.15.7 (19H15) 安裝與引導成功
 * APFS
 * iGPU(UHD 630) + AMD(RX580)實現硬體加速(硬解)
 * 有線網路 - Intel I219-V PCI Express Gigabit Ethernet

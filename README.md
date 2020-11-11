@@ -11,11 +11,11 @@ Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-
 
 ### [USB Mapping Explanation (SSDT)](./USB_Mapping.md)
 
-![About Mac](./Images/AboutMac_10.15.6.png)
+![About Mac](./Images/AboutMac_10.15.7.png)
 
-![Hard Acceleration](./Images/VideoProc_10.15.6.png)
+![Hard Acceleration](./Images/VideoProc_10.15.7.png)
 
-![Sensei](./Images/Sensei_10.15.6.png)
+![Sensei](./Images/Sensei_10.15.7.png)
 
 ---
 ### Parts List
@@ -27,7 +27,7 @@ Type|Item
 **Memory** | Kingston HyperX Predator RGB (Black) DDR4-3200 Memory 32 GB (8G*4)
 **Storage SATA III (for MacOS)** | Samsung 860 EVO 500 GB SATA 2.5 Inch Internal Solid State Drive (SSD) (MZ-76E500)
 **Storage NVMe (for Win10)** | Intel 760p 256 GB M.2-2280 NVME Solid State Drive
-**Storage NVMe (for Ubuntu Linux 18.04 LTS)** | PLEXTOR M8PeGN 128 GB M.2-2280 NVME Solid State Drive
+**Storage NVMe (be game storage)** | PLEXTOR M8PeGN 128 GB M.2-2280 NVME Solid State Drive
 **Storage SATA III** | Toshiba DT01ACA100-1TB SATAIII 32MB + Toshiba DT01ACA200-2TB SATAIII 32MB
 **Graphic Card** | MSI - Radeon RX 580 ARMOR 8G OC '8GB GDDR5, 1366Hz'
 **Case** | In-Win 303C Black PC Case
@@ -36,8 +36,7 @@ Type|Item
 **Extra** | Antenna extension base from ASUS PCE-AC68
 ---
 #### Working
-* Mojave 10.14.6 (18G84) install and boots successfully
-* Catalina 10.15.6 (19G2021) install and boots successfully
+* Catalina 10.15.7 (19H15) install and boots successfully
 * APFS
 * Headless iGPU UHD 630
 * Wired Ethernet - Intel I219-V PCI Express Gigabit Ethernet
