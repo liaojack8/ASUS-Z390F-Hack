@@ -11,11 +11,13 @@ Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-
 
 ### [USB Mapping Explanation (SSDT)](./USB_Mapping.md)
 
-![About Mac](./Images/AboutMac_10.15.7.png)
+![About Mac](./Images/AboutMac_11.0.1.png)
 
-![Hard Acceleration](./Images/VideoProc_10.15.7.png)
+![Hard Acceleration](./Images/VideoProc_11.0.1.png)
 
-![Sensei](./Images/Sensei_10.15.7.png)
+![Sensei](./Images/Sensei_11.0.1.png)
+
+![HackintoshBuild](./Images/HackintoshBuild_11.0.1.png)
 
 ---
 ### Parts List
