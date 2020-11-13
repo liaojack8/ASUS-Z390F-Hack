@@ -1,8 +1,12 @@
 # Changelog
 
+## 2020-11-13
+### Compatible with Big Sur 11.0.1 (20B29)
+- Update MacOS to Big Sur 11.0.1 (20B29) from Catalina 10.15.7 (19H15) directly
+
 ## 2020-11-11
 - Update OC bootloader to 0.6.3
-- Update MacOS to Catalina 10.15.7
+- Update MacOS to Catalina 10.15.7 (19H15) 
 - EFI compatible w/ MacOS 10.15.6 (19G2021) and 10.15.7 (19H15) 
 - Update kexts below
 	- AppleALC, 1.5.2 to 1.5.4

@@ -1,6 +1,6 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-9700K | RX 580 8GB
-[![macOS](https://img.shields.io/badge/macOS-10.15.6-orange)](https://www.apple.com/macos/catalina/)
-[![OpenCore](https://img.shields.io/badge/Opencore-0.6.0-yellow)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macOS-11.0.1-orange)](https://www.apple.com/macos/catalina/)
+[![OpenCore](https://img.shields.io/badge/Opencore-0.6.3-yellow)](https://github.com/acidanthera/OpenCorePkg)
 [![BIOS](https://img.shields.io/badge/BIOS-v1502-brightgreen)](https://www.asus.com/tw/Motherboards/ROG-STRIX-Z390-F-GAMING/HelpDesk_BIOS/)
 
 [English](https://github.com/liaojack8/ASUS-Z390F-Hack) | 中文
@@ -38,6 +38,7 @@
 
 ### 完美運行
 ---
+* Big Sur (20B29) 自10.15.7 (19H15) OTA升級成功
 * Catalina 10.15.7 (19H15) 安裝與引導成功
 * APFS
 * iGPU(UHD 630) + AMD(RX580)實現硬體加速(硬解)

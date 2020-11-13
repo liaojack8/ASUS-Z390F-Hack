@@ -1,6 +1,6 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-9700K | RX 580 8GB
-[![macOS](https://img.shields.io/badge/macOS-10.15.6-orange)](https://www.apple.com/macos/catalina/)
-[![OpenCore](https://img.shields.io/badge/Opencore-0.6.0-yellow)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macOS-11.0.1-orange)](https://www.apple.com/macos/catalina/)
+[![OpenCore](https://img.shields.io/badge/Opencore-0.6.3-yellow)](https://github.com/acidanthera/OpenCorePkg)
 [![BIOS](https://img.shields.io/badge/BIOS-v1502-brightgreen)](https://www.asus.com/tw/Motherboards/ROG-STRIX-Z390-F-GAMING/HelpDesk_BIOS/)
 
 English | [中文](./README_cht.md)
@@ -36,6 +36,7 @@ Type|Item
 **Extra** | Antenna extension base from ASUS PCE-AC68
 ---
 #### Working
+* Big Sur 11.0.1 (20B29) OTA from 10.15.7 (19H15) successfully
 * Catalina 10.15.7 (19H15) install and boots successfully
 * APFS
 * Headless iGPU UHD 630
