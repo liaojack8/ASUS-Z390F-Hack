@@ -29,7 +29,7 @@ Type|Item
 **Memory** | Kingston HyperX Predator RGB (Black) DDR4-3200 Memory 32 GB (8G*4)
 **Storage SATA III (for MacOS)** | Samsung 860 EVO 500 GB SATA 2.5 Inch Internal Solid State Drive (SSD) (MZ-76E500)
 **Storage NVMe (for Win10)** | Intel 760p 256 GB M.2-2280 NVME Solid State Drive
-**Storage NVMe (be game storage)** | PLEXTOR M8PeGN 128 GB M.2-2280 NVME Solid State Drive
+**Storage NVMe (for game storage)** | PLEXTOR M8PeGN 128 GB M.2-2280 NVME Solid State Drive
 **Storage SATA III** | Toshiba DT01ACA100-1TB SATAIII 32MB + Toshiba DT01ACA200-2TB SATAIII 32MB
 **Graphic Card** | MSI - Radeon RX 580 ARMOR 8G OC '8GB GDDR5, 1366Hz'
 **Case** | In-Win 303C Black PC Case
