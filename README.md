@@ -31,7 +31,7 @@ Type|Item
 **Storage NVMe (for Win10)** | Intel 760p 256 GB M.2-2280 NVME Solid State Drive
 **Storage NVMe (for game storage)** | PLEXTOR M8PeGN 128 GB M.2-2280 NVME Solid State Drive
 **Storage SATA III** | Toshiba DT01ACA100-1TB SATAIII 32MB + Toshiba DT01ACA200-2TB SATAIII 32MB
-**Graphic Card** | MSI - Radeon RX 580 ARMOR 8G OC '8GB GDDR5, 1366Hz'
+**Graphic Card** | SAPPHIRE - PULSE RX 580 8G G5 '8GB GDDR5, 1366Hz (Boost)'
 **Case** | In-Win 303C Black PC Case
 **Power Supply** | Corsair RM650x (2018) 80+ Gold Certified Fully Modular ATX Power Supply
 **Extra** | Airport A1465 BCM943602CS WiFi and BT 4.0 Card to PCI-E Adapter with External Antenna

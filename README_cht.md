@@ -32,7 +32,7 @@
 **硬碟 NVMe (Win10)** | 英特爾 Intel 760p 256 GB M.2-2280 NVME Solid State Drive
 **硬碟 NVMe (存放遊戲)** | PLEXTOR M8PeGN 128 GB M.2-2280 NVME Solid State Drive
 **硬碟 SATA III** | 東芝 Toshiba DT01ACA100-1TB SATAIII 32MB + DT01ACA200-2TB SATAIII 32MB
-**顯示卡** | 微星 MSI - Radeon RX 580 ARMOR 8G OC '8GB GDDR5, 1366Hz'
+**顯示卡** | 藍寶石 SAPPHIRE - PULSE RX 580 8G G5 '8GB GDDR5, 1366Hz (Boost) 2304SP
 **機殼** | 迎廣 In-Win 303C 黑
 **電源供應器(PSU)** | 海盜船 Corsair RM650x 80+ 金牌全模 ATX 電源
 **額外項目** | Airport A1465 BCM943602CS WiFi/藍芽4.0 介面卡 + PCI-E 轉接卡與外接天線(淘寶)
