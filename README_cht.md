@@ -17,7 +17,9 @@
 
 ![Sensei](./Images/Sensei_11.2.png)
 
-![HackintoshBuild](./Images/HackintoshBuild_11.2.png)
+![HackintoshBuild](./Images/HackintoshBuild_11.2-1.png)
+
+![HackintoshBuild](./Images/HackintoshBuild_11.2-2.png)
 
 ---
 ### 零件清單

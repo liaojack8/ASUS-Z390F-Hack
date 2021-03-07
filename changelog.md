@@ -1,7 +1,10 @@
 # Changelog
+## Compatible with Big Sur 11.2 (20D64)
+---
+## 2021-03-07
+- Update MacOS to Big Sur 11.2 (20D64) from Big Sur 11.0.1 (20B29) directly
 
 ## 2020-11-13
-### Compatible with Big Sur 11.0.1 (20B29)
 - Update MacOS to Big Sur 11.0.1 (20B29) from Catalina 10.15.7 (19H15) directly
 
 ## 2020-11-11
