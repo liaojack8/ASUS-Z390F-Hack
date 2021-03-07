@@ -1,6 +1,6 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-9700K | RX 580 8GB
-[![macOS](https://img.shields.io/badge/macOS-11.0.1-orange)](https://www.apple.com/macos/catalina/)
-[![OpenCore](https://img.shields.io/badge/Opencore-0.6.3-yellow)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macOS-11.2-orange)](https://www.apple.com/macos/catalina/)
+[![OpenCore](https://img.shields.io/badge/Opencore-0.6.6-yellow)](https://github.com/acidanthera/OpenCorePkg)
 [![BIOS](https://img.shields.io/badge/BIOS-v1502-brightgreen)](https://www.asus.com/tw/Motherboards/ROG-STRIX-Z390-F-GAMING/HelpDesk_BIOS/)
 
 English | [中文](./README_cht.md)
@@ -11,16 +11,16 @@ Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-
 
 ### [USB Mapping Explanation (SSDT)](./USB_Mapping.md)
 
-![About Mac](./Images/AboutMac_11.0.1.png)
+![About Mac](./Images/AboutMac_11.2.png)
 
-![Hard Acceleration](./Images/VideoProc_11.0.1.png)
+![Hard Acceleration](./Images/VideoProc_11.2.png)
 
-![Sensei](./Images/Sensei_11.0.1.png)
+![Sensei](./Images/Sensei_11.2.png)
 
-![HackintoshBuild](./Images/HackintoshBuild_11.0.1.png)
+![HackintoshBuild](./Images/HackintoshBuild_11.2.png)
 
----
 ### Parts List
+---
 Type|Item
 :----|:----
 **CPU** | Intel - Core i7-9700k 3.6 GHz 8-Core Processor
@@ -36,8 +36,9 @@ Type|Item
 **Power Supply** | Corsair RM650x (2018) 80+ Gold Certified Fully Modular ATX Power Supply
 **Extra** | Airport A1465 BCM943602CS WiFi and BT 4.0 Card to PCI-E Adapter with External Antenna
 **Extra** | Antenna extension base from ASUS PCE-AC68
----
+
 #### Working
+---
 * Big Sur 11.0.1 (20B29) OTA from 10.15.7 (19H15) successfully
 * Catalina 10.15.7 (19H15) install and boots successfully
 * APFS
@@ -46,29 +47,33 @@ Type|Item
 * Wifi / Bluetooth - Airport A1465 (BCM94360CS2)
 * Onboard Audio (I can't test digital audio output) - SupremeFX S1220A Realtek ALCS1220A
 * USB 2.0, USB 3.1 and USB C
-* Sleep/Wake
+* ~~Sleep/Wake~~
 * Quicklook
 * Power Nap
-* Youtube/Netflix video on Safari
+* ~~Youtube/Netflix video on Safari~~
 * Airdrop
 * AirPlay
 * Handoff & Continuity
 * Facetime
 * iMessage
 * App Store
----
+* ~~Sidecar~~
+
 ### Bugs
-* N/A
 ---
+* N/A
+
 ### Tools
+---
 * [Etcher](https://www.balena.io/etcher/)
 * [Hackintool](http://headsoft.com.au/download/mac/Hackintool.zip)
 * [Kext Updater](https://www.kextupdater.de/)
 * [Intel Power Gadget](https://software.intel.com/en-us/articles/intel-power-gadget)
 * [MacIASL](http://sourceforge.net/projects/maciasl)
 * [VideoProc](https://www.videoproc.com/) - Check Hardware Acceleration
----
+
 ### Install
+---
 1. Check the configuration in BIOS, My Config(./BIOS/v{Version_ID}_setting.txt), 
    you can also import the configuration file (./BIOS/v{Version_ID}_config.CMO).
 2. Build your install usb drive, and replace the EFI my release.

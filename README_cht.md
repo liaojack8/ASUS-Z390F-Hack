@@ -1,6 +1,6 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-9700K | RX 580 8GB
-[![macOS](https://img.shields.io/badge/macOS-11.0.1-orange)](https://www.apple.com/macos/catalina/)
-[![OpenCore](https://img.shields.io/badge/Opencore-0.6.3-yellow)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macOS-11.2-orange)](https://www.apple.com/macos/catalina/)
+[![OpenCore](https://img.shields.io/badge/Opencore-0.6.6-yellow)](https://github.com/acidanthera/OpenCorePkg)
 [![BIOS](https://img.shields.io/badge/BIOS-v1502-brightgreen)](https://www.asus.com/tw/Motherboards/ROG-STRIX-Z390-F-GAMING/HelpDesk_BIOS/)
 
 [English](https://github.com/liaojack8/ASUS-Z390F-Hack) | 中文
@@ -11,13 +11,13 @@
 
 ### [USB連接埠定義說明文件 (SSDT)](./USB_Mapping.md)
 
-![About Mac](./Images/AboutMac_11.0.1.png)
+![About Mac](./Images/AboutMac_11.2.png)
 
-![Hard Acceleration](./Images/VideoProc_11.0.1.png)
+![Hard Acceleration](./Images/VideoProc_11.2.png)
 
-![Sensei](./Images/Sensei_11.0.1.png)
+![Sensei](./Images/Sensei_11.2.png)
 
-![HackintoshBuild](./Images/HackintoshBuild_11.0.1.png)
+![HackintoshBuild](./Images/HackintoshBuild_11.2.png)
 
 ---
 ### 零件清單
@@ -48,16 +48,17 @@
 * 雙頻WiFi / 藍芽 - Airport A1465 (BCM94360CS2)
 * 板載音效卡(光纖輸出未測試) - SupremeFX S1220A Realtek ALCS1220A
 * USB 2.0, USB 3.1 與 USB C
-* 睡眠/喚醒
+* ~~睡眠/喚醒~~
 * 圖片預覽
 * 高效小睡
-* Youtube/Netflix在Safari上工作播放
+* ~~Youtube/Netflix在Safari上工作播放~~
 * Airdrop
 * AirPlay
 * 接力 & 接續互通
 * Facetime
 * iMessage
 * App Store
+* ~~Sidecar~~
   
 ### 不正常工作 
 ---
@@ -71,7 +72,8 @@
 * [Intel Power Gadget](https://software.intel.com/en-us/articles/intel-power-gadget)
 * [MacIASL](http://sourceforge.net/projects/maciasl)
 * [VideoProc](https://www.videoproc.com/) - 用於確認硬體加速
----
+
 ### 安裝
+---
 1. 確認BIOS版本與設定組態, 我的設定組態(./BIOS/v{版本號}_setting.txt), 也可以直接導入我的設定值透過我匯出的文件(./BIOS/v{版本號}_config.CMO)
 2. 建置USB系統安裝碟, 並替換EFI分區為我發佈的文件.
