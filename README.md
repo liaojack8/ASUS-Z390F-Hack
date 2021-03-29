@@ -29,10 +29,10 @@ Type|Item
 **CPU Cooler** | Coolermaster MASTERLIQUID ML240L RGB
 **Motherboard** | Asus - ROG STRIX Z390-F GAMING ATX LGA1151 Motherboard
 **Memory** | Kingston HyperX Predator RGB (Black) DDR4-3200 Memory 32 GB (8G*4)
-**Storage SATA III (for MacOS)** | Samsung 860 EVO 500 GB SATA 2.5 Inch Internal Solid State Drive (SSD) (MZ-76E500)
-**Storage NVMe (for Win10)** | Intel 760p 256 GB M.2-2280 NVME Solid State Drive
-**Storage NVMe (for game storage)** | PLEXTOR M8PeGN 128 GB M.2-2280 NVME Solid State Drive
-**Storage SATA III** | Toshiba DT01ACA100-1TB SATAIII 32MB + Toshiba DT01ACA200-2TB SATAIII 32MB
+**Storage NVMe (for Win10)** | WD Black SN750 1TB NVMe PCIe Solid State Drive (WDS100T3X0C) 
+**Storage NVMe (for MacOS)** | WD Black SN750 500GB NVMe PCIe Solid State Drive (WDS500G3X0C) 
+**Storage SATA III (for game storage)** | Samsung 860 EVO 500 GB SATA 2.5 Inch Internal Solid State Drive (MZ-76E500) 
+**Storage SATA III (for data storage)** | Toshiba DT01ACA100-1TB SATAIII 32MB + Toshiba DT01ACA200-2TB SATAIII 32MB
 **Graphic Card** | SAPPHIRE - PULSE RX 580 8G G5 '8GB GDDR5, 1366Hz (Boost)'
 **Case** | In-Win 303C Black PC Case
 **Power Supply** | Corsair RM650x (2018) 80+ Gold Certified Fully Modular ATX Power Supply

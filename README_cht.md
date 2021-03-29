@@ -30,10 +30,10 @@
 **散熱系統** | 酷碼 Coolermaster MASTERLIQUID ML240L RGB
 **主機板(MB)** | 華碩 ROG STRIX Z390-F GAMING ATX LGA1151
 **記憶體(DRAM)** | 金士頓 Kingston HyperX Predator RGB (黑) DDR4-3200 32 GB (8G*4)
-**硬碟 SATA III (MacOS)** | 三星 Samsung 860 EVO 500 GB SATA 2.5吋 (MZ-76E500)
-**硬碟 NVMe (Win10)** | 英特爾 Intel 760p 256 GB M.2-2280 NVME Solid State Drive
-**硬碟 NVMe (存放遊戲)** | PLEXTOR M8PeGN 128 GB M.2-2280 NVME Solid State Drive
-**硬碟 SATA III** | 東芝 Toshiba DT01ACA100-1TB SATAIII 32MB + DT01ACA200-2TB SATAIII 32MB
+**硬碟 NVMe (Win10)** | 威騰 WD 黑標 SN750 1TB NVMe PCIe 固態硬碟 (WDS100T3X0C) 
+**硬碟 NVMe (MacOS)** | 威騰 WD 黑標 SN750 500GB NVMe PCIe 固態硬碟 (WDS500G3X0C) 
+ **硬碟 SATA III (存放遊戲)** | 三星 Samsung 860 EVO 500 GB SATA 2.5吋 (MZ-76E500)           
+**硬碟 SATA III (存放資料)** | 東芝 Toshiba DT01ACA100-1TB SATAIII 32MB + DT01ACA200-2TB SATAIII 32MB
 **顯示卡** | 藍寶石 SAPPHIRE - PULSE RX 580 8G G5 '8GB GDDR5, 1366Hz (Boost) 2304SP
 **機殼** | 迎廣 In-Win 303C 黑
 **電源供應器(PSU)** | 海盜船 Corsair RM650x 80+ 金牌全模 ATX 電源
