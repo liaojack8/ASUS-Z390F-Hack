@@ -34,7 +34,8 @@
 **硬碟 NVMe (MacOS)** | 威騰 WD 黑標 SN750 500GB NVMe PCIe 固態硬碟 (WDS500G3X0C) 
  **硬碟 SATA III (存放遊戲)** | 三星 Samsung 860 EVO 500 GB SATA 2.5吋 (MZ-76E500)           
 **硬碟 SATA III (存放資料)** | 東芝 Toshiba DT01ACA100-1TB SATAIII 32MB + DT01ACA200-2TB SATAIII 32MB
-**顯示卡** | 藍寶石 SAPPHIRE - PULSE RX 580 8G G5 '8GB GDDR5, 1366Hz (Boost) 2304SP
+**顯示卡** | UHD630
+-|~~藍寶石 SAPPHIRE - PULSE RX 580 8G G5 '8GB GDDR5, 1366Hz (Boost) 2304SP~~
 **機殼** | 迎廣 In-Win 303C 黑
 **電源供應器(PSU)** | 海盜船 Corsair RM650x 80+ 金牌全模 ATX 電源
 **額外項目** | Airport A1465 BCM943602CS WiFi/藍芽4.0 介面卡 + PCI-E 轉接卡與外接天線(淘寶)
@@ -42,10 +43,9 @@
 
 ### 完美運行
 ---
-* Big Sur (20B29) 自10.15.7 (19H15) OTA升級成功
-* Catalina 10.15.7 (19H15) 安裝與引導成功
+* Big Sur 11.4 (20F71) 自11.2 (20D64) OTA升級成功
 * APFS
-* iGPU(UHD 630) + AMD(RX580)實現硬體加速(硬解)
+* ~~iGPU(UHD 630) + AMD(RX580)實現硬體加速(硬解)~~
 * 有線網路 - Intel I219-V PCI Express Gigabit Ethernet
 * 雙頻WiFi / 藍芽 - Airport A1465 (BCM94360CS2)
 * 板載音效卡(光纖輸出未測試) - SupremeFX S1220A Realtek ALCS1220A
@@ -60,7 +60,7 @@
 * Facetime
 * iMessage
 * App Store
-* ~~Sidecar~~
+* Sidecar
   
 ### 不正常工作 
 ---

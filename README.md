@@ -33,7 +33,8 @@ Type|Item
 **Storage NVMe (for MacOS)** | WD Black SN750 500GB NVMe PCIe Solid State Drive (WDS500G3X0C) 
 **Storage SATA III (for game storage)** | Samsung 860 EVO 500 GB SATA 2.5 Inch Internal Solid State Drive (MZ-76E500) 
 **Storage SATA III (for data storage)** | Toshiba DT01ACA100-1TB SATAIII 32MB + Toshiba DT01ACA200-2TB SATAIII 32MB
-**Graphic Card** | SAPPHIRE - PULSE RX 580 8G G5 '8GB GDDR5, 1366Hz (Boost)'
+**Graphic Card** | UHD630
+-|~~SAPPHIRE - PULSE RX 580 8G G5 '8GB GDDR5, 1366Hz (Boost)'~~
 **Case** | In-Win 303C Black PC Case
 **Power Supply** | Corsair RM650x (2018) 80+ Gold Certified Fully Modular ATX Power Supply
 **Extra** | Airport A1465 BCM943602CS WiFi and BT 4.0 Card to PCI-E Adapter with External Antenna
@@ -41,10 +42,9 @@ Type|Item
 
 #### Working
 ---
-* Big Sur 11.0.1 (20B29) OTA from 10.15.7 (19H15) successfully
-* Catalina 10.15.7 (19H15) install and boots successfully
+* Big Sur 11.4 (20F71) OTA from BigSur 11.2 (20D64) successfully
 * APFS
-* Headless iGPU UHD 630
+* ~~Headless iGPU UHD 630~~
 * Wired Ethernet - Intel I219-V PCI Express Gigabit Ethernet
 * Wifi / Bluetooth - Airport A1465 (BCM94360CS2)
 * Onboard Audio (I can't test digital audio output) - SupremeFX S1220A Realtek ALCS1220A
@@ -59,7 +59,7 @@ Type|Item
 * Facetime
 * iMessage
 * App Store
-* ~~Sidecar~~
+* Sidecar
 
 ### Bugs
 ---

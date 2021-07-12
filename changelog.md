@@ -1,6 +1,11 @@
 # Changelog
-## Compatible with Big Sur 11.2 (20D64)
+## Compatible with Big Sur 11.4 (20F71)
 ---
+## 2021-07-12
+- Remove RX580
+- Update kexts
+- Update MacOS to Big Sur 11.4 (20F71) from BigSur 11.2 (20D64) directly
+
 ## 2021-03-07
 - Update MacOS to Big Sur 11.2 (20D64) from Big Sur 11.0.1 (20B29) directly
 
