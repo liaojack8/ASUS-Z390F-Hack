@@ -1,6 +1,6 @@
-# Hackintosh based on ASUS-Z390-F | Intel i7-9700K | RX 580 8GB
-[![macOS](https://img.shields.io/badge/macOS-11.2-orange)](https://www.apple.com/macos/catalina/)
-[![OpenCore](https://img.shields.io/badge/Opencore-0.6.6-yellow)](https://github.com/acidanthera/OpenCorePkg)
+# Hackintosh based on ASUS-Z390-F | Intel i7-9700K | ~~RX 580 8GB~~
+[![macOS](https://img.shields.io/badge/macOS-11.4-orange)](https://www.apple.com/macos/catalina/)
+[![OpenCore](https://img.shields.io/badge/Opencore-0.7.1 -yellow)](https://github.com/acidanthera/OpenCorePkg)
 [![BIOS](https://img.shields.io/badge/BIOS-v1502-brightgreen)](https://www.asus.com/tw/Motherboards/ROG-STRIX-Z390-F-GAMING/HelpDesk_BIOS/)
 
 English | [中文](./README_cht.md)
@@ -11,15 +11,19 @@ Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-
 
 ### [USB Mapping Explanation (SSDT)](./USB_Mapping.md)
 
-![About Mac](./Images/AboutMac_11.2.png)
+![About Mac](./Images/AboutMac_11.4.png)
 
-![Hard Acceleration](./Images/VideoProc_11.2.png)
+![Hard Acceleration](./Images/VideoProc_11.4.png)
 
-![Sensei](./Images/Sensei_11.2.png)
+![Sensei](./Images/Sensei_11.4.png)
 
-![HackintoshBuild](./Images/HackintoshBuild_11.2-1.png)
+![HackintoshBuild](./Images/HackintoshBuild_11.4-1.png)
 
-![HackintoshBuild](./Images/HackintoshBuild_11.2-2.png)
+![HackintoshBuild](./Images/HackintoshBuild_11.4-2.png)
+
+![BootMenu](./Images/BootMenu-1.png)
+
+![BootMenu](./Images/BootMenu-2.png)
 
 ### Parts List
 ---
