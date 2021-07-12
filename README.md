@@ -1,6 +1,6 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-9700K | ~~RX 580 8GB~~
 [![macOS](https://img.shields.io/badge/macOS-11.4-orange)](https://www.apple.com/macos/catalina/)
-[![OpenCore](https://img.shields.io/badge/Opencore-0.7.1 -yellow)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/Opencore-0.7.1-yellow)](https://github.com/acidanthera/OpenCorePkg)
 [![BIOS](https://img.shields.io/badge/BIOS-v1502-brightgreen)](https://www.asus.com/tw/Motherboards/ROG-STRIX-Z390-F-GAMING/HelpDesk_BIOS/)
 
 English | [中文](./README_cht.md)
