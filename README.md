@@ -1,11 +1,15 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-9700K | ~~RX 580 8GB~~
-[![macOS](https://img.shields.io/badge/macOS-11.4-orange)](https://www.apple.com/macos/catalina/)
+
+[![macOS](https://img.shields.io/badge/macOS-11.4-orange)](https://www.apple.com/macos/big-sur/)
+[![macOS Beta](https://img.shields.io/badge/macOS_Beta-12.0_Beta-e86de8)](https://www.apple.com/macos/catalina/)
 [![OpenCore](https://img.shields.io/badge/Opencore-0.7.1-yellow)](https://github.com/acidanthera/OpenCorePkg)
 [![BIOS](https://img.shields.io/badge/BIOS-v1502-brightgreen)](https://www.asus.com/tw/Motherboards/ROG-STRIX-Z390-F-GAMING/HelpDesk_BIOS/)
 
 English | [中文](./README_cht.md)
 
 Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html) & [z390-Hack](https://github.com/leto1210/z390-Hack)
+
+## MacOS 12 Monterey Beta supported, [Get more detail info](./Beta_21A5248p.md)
 
 ### [Changelog](./changelog.md)
 
@@ -26,6 +30,7 @@ Thanks for [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-
 ![BootMenu](./Images/BootMenu-2.png)
 
 ### Parts List
+
 ---
 Type|Item
 :----|:----
@@ -45,7 +50,9 @@ Type|Item
 **Extra** | Antenna extension base from ASUS PCE-AC68
 
 #### Working
+
 ---
+
 * Big Sur 11.4 (20F71) OTA from BigSur 11.2 (20D64) successfully
 * APFS
 * ~~Headless iGPU UHD 630~~
@@ -60,26 +67,33 @@ Type|Item
 * Airdrop
 * AirPlay
 * Handoff & Continuity
+* Sidecar
 * Facetime
 * iMessage
 * App Store
-* Sidecar
 
 ### Bugs
+
 ---
+
 * N/A
 
 ### Tools
+
 ---
+
 * [Etcher](https://www.balena.io/etcher/)
-* [Hackintool](http://headsoft.com.au/download/mac/Hackintool.zip)
+* [Hackintool](https://github.com/headkaze/Hackintool)
+* [HackintoshBuild](https://github.com/bugprogrammer/HackintoshBuild)
 * [Kext Updater](https://www.kextupdater.de/)
 * [Intel Power Gadget](https://software.intel.com/en-us/articles/intel-power-gadget)
 * [MacIASL](http://sourceforge.net/projects/maciasl)
 * [VideoProc](https://www.videoproc.com/) - Check Hardware Acceleration
 
 ### Install
+
 ---
-1. Check the configuration in BIOS, My Config(./BIOS/v{Version_ID}_setting.txt), 
-   you can also import the configuration file (./BIOS/v{Version_ID}_config.CMO).
+
+1. Check the configuration in BIOS, My Config(./BIOS/v{Version_ID}_setting.txt),
+you can also import the configuration file (./BIOS/v{Version_ID}_config.CMO).
 2. Build your install usb drive, and replace the EFI my release.

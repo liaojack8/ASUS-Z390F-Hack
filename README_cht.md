@@ -1,11 +1,15 @@
 # Hackintosh based on ASUS-Z390-F | Intel i7-9700K | ~~RX 580 8GB~~
-[![macOS](https://img.shields.io/badge/macOS-11.4-orange)](https://www.apple.com/macos/catalina/)
+
+[![macOS](https://img.shields.io/badge/macOS-11.4-orange)](https://www.apple.com/macos/big-sur/)
+[![macOS Beta](https://img.shields.io/badge/macOS_Beta-12.0_Beta-e86de8)](https://www.apple.com/macos/catalina/)
 [![OpenCore](https://img.shields.io/badge/Opencore-0.7.1-yellow)](https://github.com/acidanthera/OpenCorePkg)
 [![BIOS](https://img.shields.io/badge/BIOS-v1502-brightgreen)](https://www.asus.com/tw/Motherboards/ROG-STRIX-Z390-F-GAMING/HelpDesk_BIOS/)
 
 [English](https://github.com/liaojack8/ASUS-Z390F-Hack) | 中文
 
 感謝 [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html) & [z390-Hack](https://github.com/leto1210/z390-Hack)
+
+## 已支援 MacOS 12 Monterey 測試版, [更多資訊](./Beta_21A5248p.md)
 
 ### [更新記錄](./changelog.md)
 
@@ -26,7 +30,9 @@
 ![BootMenu](./Images/BootMenu-2.png)
 
 ---
+
 ### 零件清單
+
 ---
 規格|型號
 :----|:----
@@ -46,7 +52,9 @@
 **額外項目** | ASUS PCE-AC68的天線底座
 
 ### 完美運行
+
 ---
+
 * Big Sur 11.4 (20F71) 自11.2 (20D64) OTA升級成功
 * APFS
 * ~~iGPU(UHD 630) + AMD(RX580)實現硬體加速(硬解)~~
@@ -61,25 +69,32 @@
 * Airdrop
 * AirPlay
 * 接力 & 接續互通
+* 並行
 * Facetime
 * iMessage
 * App Store
-* Sidecar
   
-### 不正常工作 
+### 不正常工作
+
 ---
+
 * N/A
   
 ### 工具
+
 ---
+
 * [Etcher](https://www.balena.io/etcher/)
-* [Hackintool](http://headsoft.com.au/download/mac/Hackintool.zip)
+* [Hackintool](https://github.com/headkaze/Hackintool)
+* [HackintoshBuild](https://github.com/bugprogrammer/HackintoshBuild)
 * [Kext Updater](https://www.kextupdater.de/)
 * [Intel Power Gadget](https://software.intel.com/en-us/articles/intel-power-gadget)
 * [MacIASL](http://sourceforge.net/projects/maciasl)
 * [VideoProc](https://www.videoproc.com/) - 用於確認硬體加速
 
 ### 安裝
+
 ---
+
 1. 確認BIOS版本與設定組態, 我的設定組態(./BIOS/v{版本號}_setting.txt), 也可以直接導入我的設定值透過我匯出的文件(./BIOS/v{版本號}_config.CMO)
 2. 建置USB系統安裝碟, 並替換EFI分區為我發佈的文件.
